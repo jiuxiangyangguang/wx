@@ -53,6 +53,7 @@
     "@dcloudio/uni-mp-weixin": "3.0.0-3090920231225001",
     "@dcloudio/uni-mp-xhs": "3.0.0-3090920231225001",
     "@dcloudio/uni-quickapp-webview": "3.0.0-3090920231225001",
+    "@tuya/tuya-connector-nodejs": "^2.1.2",
     "@vant/weapp": "^1.11.4",
     "vant": "^4.8.4",
     "vue": "^3.4.19",

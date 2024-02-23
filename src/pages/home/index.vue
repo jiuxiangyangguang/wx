@@ -25,7 +25,10 @@ const ca = () => {
     maxDuration: 30,
     camera: 'back',
     success(res) {
-      console.log(res.tempFiles)
+      const files = res.tempFiles
+      // files.forEach((file) => {
+      //   console.log(file.path) // 这是文件的路径
+      // })
     }
   })
 }
